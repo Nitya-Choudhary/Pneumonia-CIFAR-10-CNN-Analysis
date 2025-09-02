@@ -1,0 +1,11 @@
+Python 3.8+
+
+PyTorch
+
+Torchvision
+
+Gradio
+
+Pillow
+
+numpy
